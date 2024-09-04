@@ -7,7 +7,10 @@
   <a href="https://arxiv.org/abs/" style="font-size:20px; font-weight:bold; text-decoration:none; color:#dc3545;">Arxiv</a>
 </div>
 
-<div align="center">   ![Teaser Video](./assets/IDKB_show.mp4) </div>
+<video controls width="90%">
+  <source src="./assets/IDKB_show.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Large Vision-Language Models (LVLMs) have recently garnered significant attention, with many efforts aimed at harnessing their general knowledge to enhance the interpretability and robustness of autonomous driving models. However, LVLMs typically rely on large, general-purpose datasets and lack the specialized expertise required for professional and safe driving. Existing vision-language driving datasets focus primarily on scene understanding and decision-making, without providing explicit guidance on traffic rules and driving skills, which are critical aspects directly related to driving safety. 
 
