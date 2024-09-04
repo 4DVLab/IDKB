@@ -1,7 +1,11 @@
 
 # Can LVLMs Obtain a Driver’s License? A Benchmark Towards Reliable AGI for Autonomous Driving
 
-<div align="center" style="font-size:24px;">   <a href="https://4dvlab.github.io/project_page/idkb.html" style="text-decoration:none;">     <img src="https://img.shields.io/badge/Project%20Page-blue?style=for-the-badge" alt="Project Page">   </a>   &nbsp;   <a href="https://arxiv.org/abs/" style="text-decoration:none;">     <img src="https://img.shields.io/badge/Arxiv-red?style=for-the-badge" alt="Arxiv">   </a> </div>  
+<div align="center">
+  <a href="https://4dvlab.github.io/project_page/idkb.html" style="display:inline-block; background-color:#007bff; color:white; padding:10px 20px; border-radius:5px; text-decoration:none; font-weight:bold;">Project Page</a>
+  &nbsp;&nbsp;
+  <a href="https://arxiv.org/abs/" style="display:inline-block; background-color:#dc3545; color:white; padding:10px 20px; border-radius:5px; text-decoration:none; font-weight:bold;">Arxiv</a>
+</div>
 
 
 
