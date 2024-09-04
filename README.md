@@ -2,14 +2,19 @@
 # Can LVLMs Obtain a Driver’s License? A Benchmark Towards Reliable AGI for Autonomous Driving
 
 <div align="center">
-  <a href="https://4dvlab.github.io/project_page/idkb.html" style="display:inline-block; background-color:#007bff; color:white; padding:10px 20px; border-radius:5px; text-decoration:none; font-weight:bold;">Project Page</a>
+  <a href="https://4dvlab.github.io/project_page/idkb.html" style="font-size:20px; font-weight:bold; text-decoration:none; color:#007bff;">Project Page</a>
   &nbsp;&nbsp;
-  <a href="https://arxiv.org/abs/" style="display:inline-block; background-color:#dc3545; color:white; padding:10px 20px; border-radius:5px; text-decoration:none; font-weight:bold;">Arxiv</a>
+  <a href="https://arxiv.org/abs/" style="font-size:20px; font-weight:bold; text-decoration:none; color:#dc3545;">Arxiv</a>
+</div>
+
+<div align="center">
+  <video id="teaser" controls autoplay muted loop playsinline width="90%">
+    <source src="./assets/IDKB_show.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 
-
-<div align="center">   <video id="teaser" controls autoplay muted loop playsinline width="80%">     <source src="./assets/IDKB_show.mp4" type="video/mp4">     Your browser does not support the video tag.   </video> </div>
 
 Large Vision-Language Models (LVLMs) have recently garnered significant attention, with many efforts aimed at harnessing their general knowledge to enhance the interpretability and robustness of autonomous driving models. However, LVLMs typically rely on large, general-purpose datasets and lack the specialized expertise required for professional and safe driving. Existing vision-language driving datasets focus primarily on scene understanding and decision-making, without providing explicit guidance on traffic rules and driving skills, which are critical aspects directly related to driving safety. 
 
