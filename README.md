@@ -1,19 +1,15 @@
 
-# **Can LVLMs Obtain a Driver’s License? A Benchmark Towards Reliable AGI for Autonomous Driving**
+# Can LVLMs Obtain a Driver’s License? A Benchmark Towards Reliable AGI for Autonomous Driving
 
-<div align="center" style="font-size:24px;">
-  <a href="https://4dvlab.github.io/project_page/idkb.html"><b>Project Page</b></a> | 
-  <a href="https://arxiv.org/abs/"><b>Arxiv</b></a>
-</div>
-
-<video id="teaser" controls autoplay muted loop playsinline width="100%">
-        <source src="./assets/IDKB_show.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+<div align="center" style="font-size:24px;">   <a href="https://4dvlab.github.io/project_page/idkb.html" style="text-decoration:none;">     <img src="https://img.shields.io/badge/Project%20Page-blue?style=for-the-badge" alt="Project Page">   </a>   &nbsp;   <a href="https://arxiv.org/abs/" style="text-decoration:none;">     <img src="https://img.shields.io/badge/Arxiv-red?style=for-the-badge" alt="Arxiv">   </a> </div>  
 
 
 
-Large Vision-Language Models (LVLMs) have recently garnered significant attention, with many efforts aimed at harnessing their general knowledge to enhance the interpretability and robustness of autonomous driving models. However, LVLMs typically rely on large, general-purpose datasets and lack the specialized expertise required for professional and safe driving. Existing vision-language driving datasets focus primarily on scene understanding and decision-making, without providing explicit guidance on traffic rules and driving skills, which are critical aspects directly related to driving safety. To bridge this gap, we propose IDKB, a large-scale dataset containing over one million data items collected from various countries, including driving handbooks, theory test data, and simulated road test data. Much like the process of obtaining a driver's license, IDKB encompasses nearly all the explicit knowledge needed for driving from theory to practice. In particular, we conducted comprehensive tests on 15 LVLMs using IDKB to assess their reliability in the context of autonomous driving and provided extensive analysis. We also fine-tuned popular models, achieving notable performance improvements, which further validate the significance of our dataset.
+<div align="center">   <video id="teaser" controls autoplay muted loop playsinline width="80%">     <source src="./assets/IDKB_show.mp4" type="video/mp4">     Your browser does not support the video tag.   </video> </div>
+
+Large Vision-Language Models (LVLMs) have recently garnered significant attention, with many efforts aimed at harnessing their general knowledge to enhance the interpretability and robustness of autonomous driving models. However, LVLMs typically rely on large, general-purpose datasets and lack the specialized expertise required for professional and safe driving. Existing vision-language driving datasets focus primarily on scene understanding and decision-making, without providing explicit guidance on traffic rules and driving skills, which are critical aspects directly related to driving safety. 
+
+To bridge this gap, we propose IDKB, a large-scale dataset containing over one million data items collected from various countries, including driving handbooks, theory test data, and simulated road test data. Much like the process of obtaining a driver's license, IDKB encompasses nearly all the explicit knowledge needed for driving from theory to practice. In particular, we conducted comprehensive tests on 15 LVLMs using IDKB to assess their reliability in the context of autonomous driving and provided extensive analysis. We also fine-tuned popular models, achieving notable performance improvements, which further validate the significance of our dataset.
 
 
 
