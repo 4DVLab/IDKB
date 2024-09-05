@@ -15,11 +15,11 @@
     <sup>2</sup>The Chinese University of Hong Kong
   </div>
 
-<div align="center" style="line-height: 1;"> 
+
 <div class="publication-notes" style="margin-top: 10px; font-size: 16px;">
     <sup>*</sup>These authors contributed equally. 
     <sup>†</sup>Corresponding author.
-  </div> </divdiv>
+  </div>
 
 <p float="center">
   <img  width="1000" src="./assets/IDKB_show.png"/>
