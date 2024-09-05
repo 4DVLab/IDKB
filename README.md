@@ -1,5 +1,24 @@
-
 # Can LVLMs Obtain a Driver’s License? A Benchmark Towards Reliable AGI for Autonomous Driving
+
+<div style="text-align: center; line-height: 1.4; font-size: 20px; font-weight: bold;">
+  <div class="publication-authors">
+    <a href="http://yuhanglu2000.github.io" style="color:#007bff; text-decoration:none;">Yuhang Lu</a><sup>1,*</sup>,
+    Yichen Yao<sup>1,*</sup>,
+    Jiadong Tu<sup>1,*</sup>,
+    Jiangnan Shao<sup>1,*</sup>,
+    <a href="http://yuexinma.me" style="color:#007bff; text-decoration:none;">Yuexin Ma</a><sup>1,†</sup>,
+    <a href="https://xingezhu.me/aboutme.html" style="color:#007bff; text-decoration:none;">Xinge Zhu</a><sup>2,†</sup>
+  </div>
+
+  <div class="publication-affiliations" style="text-align: center; margin-top: 10px; font-size: 16px;">
+    <sup>1</sup>ShanghaiTech University, 
+    <sup>2</sup>The Chinese University of Hong Kong
+  </div>
+
+  <div class="publication-notes" style="text-align: center; margin-top: 10px; font-size: 16px;">
+    <sup>*</sup>These authors contributed equally. 
+    <sup>†</sup>Corresponding author.
+  </div>
 
 <p float="center">
   <img  width="1000" src="./assets/IDKB_show.png"/>
