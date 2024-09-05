@@ -9,17 +9,19 @@
     <a href="http://yuexinma.me" style="color:#007bff; text-decoration:none;">Yuexin Ma</a><sup>1,†</sup>,
     <a href="https://xingezhu.me/aboutme.html" style="color:#007bff; text-decoration:none;">Xinge Zhu</a><sup>2,†</sup>
   </div>
-<div align="center" style="line-height: 1;">  
-<div class="publication-affiliations" style="margin-top: 10px; font-size: 16px;">
+
+  <div class="publication-affiliations" style="margin-top: 10px; font-size: 16px;">
     <sup>1</sup>ShanghaiTech University, 
     <sup>2</sup>The Chinese University of Hong Kong
   </div>
 
-
-<div class="publication-notes" style="margin-top: 10px; font-size: 16px;">
+  <div class="publication-notes" style="margin-top: 10px; font-size: 16px;">
     <sup>*</sup>These authors contributed equally. 
     <sup>†</sup>Corresponding author.
   </div>
+</div>
+
+
 
 <p float="center">
   <img  width="1000" src="./assets/IDKB_show.png"/>
