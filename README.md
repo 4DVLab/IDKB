@@ -19,7 +19,7 @@
 <div class="publication-notes" style="margin-top: 10px; font-size: 16px;">
     <sup>*</sup>These authors contributed equally. 
     <sup>†</sup>Corresponding author.
-  </div>
+  </div> </divdiv>
 
 <p float="center">
   <img  width="1000" src="./assets/IDKB_show.png"/>
