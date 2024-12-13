@@ -94,7 +94,7 @@ This process typically involves studying driving handbooks, taking theory tests,
 ## 🚩 News
 
 + **[2024-12-13]** We have provided a download link via Baidu Netdisk.
-+ **[2024-12-10]** Our work, IDKB, has been accepted by AAAI 2024.
++ **[2024-12-10]** Our work, IDKB, has been accepted by AAAI 2025.
 + **[2024-09-04]** The ArXiv version of our paper has been released.
 
 
