@@ -93,15 +93,18 @@ This process typically involves studying driving handbooks, taking theory tests,
 
 ## 🚩 News
 
-+ We have released the Arxiv version of the paper.
++ **[2024-12-13]** We have provided a download link via Baidu Netdisk.
++ **[2024-12-10]** Our work, IDKB, has been accepted by AAAI 2024.
++ **[2024-09-04]** The ArXiv version of our paper has been released.
 
 
 
 # 📚 Dataset Download:
 
-**The dataset will be available once the paper is accepted. Stay tuned!**
-
-
+| Platform      | Link                                                         | Access Code |
+| ------------- | ------------------------------------------------------------ | ----------- |
+| Baidu Netdisk | [Download Here](https://pan.baidu.com/s/1_w5dkEJZWrdxP8Ydqq7d0Q) | 7vfw        |
+| Google Drive  | Coming soon                                                  | -           |
 
 ## Citiation
 
