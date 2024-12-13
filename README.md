@@ -1,14 +1,19 @@
-------
+<h1 align="center">    Can LVLMs Obtain a Driver’s License?    <br>    <b>A Benchmark Towards Reliable AGI for Autonomous Driving</b>   </h1>   <h2 align="center">    <a href="https://4dvlab.github.io/project_page/idkb.html">🌐 Project Page</a> &nbsp;|&nbsp;    <a href="https://arxiv.org/abs/2409.02914" style="color:#dc3545;">📄 Arxiv</a>   </h2>   <div align="center">  <img src="./assets/IDKB_show.png" width="1000"> </div>
 
-<h2 align="center">  </h2> <h1 align="center">  Can LVLMs Obtain a Driver’s License?    <br>  <b>A Benchmark Towards Reliable AGI for Autonomous Driving</b> </h1> <h2 align="center">  <a href="https://4dvlab.github.io/project_page/idkb.html">🌐 Project Page</a> &nbsp;|&nbsp;  <a href="https://arxiv.org/abs/2409.02914" style="color:#dc3545;">📄 Arxiv</a> </h2>
 
-------
 
-### <h2 align="center">  <img src="./assets/IDKB_show.png" width="1000"> </h2>
+## 📑 Table of Contents
 
-------
+1. [Overview](#overview)
+2. [Data Overview](#data-overview)
+3. [News](#news)
+4. [Dataset Download](#dataset-download)
+5. [Usage Guide](#usage-guide)
+6. [Citation](#citation)
 
-## Overview
+
+
+## 🚀 Overview <a name="overview"></a>
 
 Large Vision-Language Models (LVLMs) have gained significant attention for their general knowledge and interpretability in autonomous driving. However, they lack the specialized expertise required for professional and safe driving, such as traffic rules and driving skills—critical elements of driving safety.
 
@@ -24,13 +29,15 @@ Our benchmark includes **15 popular LVLMs** evaluated for their reliability in a
 
 
 
-## 🗂️ Data Overview
+## 🗂️ Data Overview <a name="data-overview"></a>
 
 <p float="center">
-  <img  width="800" src="./assets/data_example.png"/>
+  <img  width="950" src="./assets/data_example.png"/>
 </p>
 
-## 🚩 News
+
+
+## 🚩 News <a name="news"></a>
 
 + **[2024-12-13]** We have provided a download link via Baidu Netdisk.
 + **[2024-12-10]** Our work, IDKB, has been accepted by AAAI 2025.
@@ -38,26 +45,34 @@ Our benchmark includes **15 popular LVLMs** evaluated for their reliability in a
 
 
 
-# 📚 Dataset Download:
+# 📚 Dataset Download <a name="dataset-download"></a>
 
 | Platform      | Link                                                         | Access Code |
 | ------------- | ------------------------------------------------------------ | ----------- |
 | Baidu Netdisk | [Download Here](https://pan.baidu.com/s/1_w5dkEJZWrdxP8Ydqq7d0Q) | 7vfw        |
 | Google Drive  | Coming soon                                                  | -           |
 
-## Citiation
-
- ```
-@misc{lu2024lvlmsobtaindriverslicense,
-      title={Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving}, 
-      author={Yuhang Lu and Yichen Yao and Jiadong Tu and Jiangnan Shao and Yuexin Ma and Xinge Zhu},
-      year={2024},
-      eprint={2409.02914},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2409.02914}, 
-}
- ```
 
 
+## 🛠️ Usage Guide <a name="usage-guide"></a>
+
+**TODO:** The usage instructions for IDKB will be provided here, stay tuned!
+
+
+
+## 📖 Citation <a name="citation"></a>
+
+If you use our dataset or benchmark in your research, please cite us as:
+
+```
+@misc{lu2024lvlmsobtaindriverslicense,  
+      title={Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving},  
+      author={Yuhang Lu and Yichen Yao and Jiadong Tu and Jiangnan Shao and Yuexin Ma and Xinge Zhu},  
+      year={2024},  
+      eprint={2409.02914},  
+      archivePrefix={arXiv},  
+      primaryClass={cs.CV},  
+      url={https://arxiv.org/abs/2409.02914},  
+} 
+```
 
