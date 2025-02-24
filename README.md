@@ -39,6 +39,7 @@ Our benchmark includes **15 popular LVLMs** evaluated for their reliability in a
 
 ## 🚩 News <a name="news"></a>
 
++ **[2024-02-24]** We have refined the dataset format and provided the Google Drive link.
 + **[2024-12-13]** We have provided a download link via Baidu Netdisk.
 + **[2024-12-10]** Our work, IDKB, has been accepted by AAAI 2025.
 + **[2024-09-04]** The ArXiv version of our paper has been released.
@@ -49,8 +50,8 @@ Our benchmark includes **15 popular LVLMs** evaluated for their reliability in a
 
 | Platform      | Link                                                         | Access Code |
 | ------------- | ------------------------------------------------------------ | ----------- |
-| Baidu Netdisk | [Download Here](https://pan.baidu.com/s/1_w5dkEJZWrdxP8Ydqq7d0Q) | 7vfw        |
-| Google Drive  | Coming soon                                                  | -           |
+| Baidu Netdisk | [Download Here](https://pan.baidu.com/s/1YukK_F6OAaz3lH_m27w9bg) | idkb        |
+| Google Drive  | [Download Here](https://drive.google.com/file/d/12XRP8-BeqA6asNRwEsH-OV7ndSZ2Bwsy/view?usp=sharing) | -           |
 
 
 
