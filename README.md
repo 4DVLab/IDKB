@@ -66,14 +66,14 @@ Our benchmark includes **15 popular LVLMs** evaluated for their reliability in a
 If you use our dataset or benchmark in your research, please cite us as:
 
 ```
-@misc{lu2024lvlmsobtaindriverslicense,  
-      title={Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving},  
-      author={Yuhang Lu and Yichen Yao and Jiadong Tu and Jiangnan Shao and Yuexin Ma and Xinge Zhu},  
-      year={2024},  
-      eprint={2409.02914},  
-      archivePrefix={arXiv},  
-      primaryClass={cs.CV},  
-      url={https://arxiv.org/abs/2409.02914},  
-} 
+@inproceedings{lu2025can,
+  title={Can lvlms obtain a driver’s license? a benchmark towards reliable agi for autonomous driving},
+  author={Lu, Yuhang and Yao, Yichen and Tu, Jiadong and Shao, Jiangnan and Ma, Yuexin and Zhu, Xinge},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={6},
+  pages={5838--5846},
+  year={2025}
+}
 ```
 
